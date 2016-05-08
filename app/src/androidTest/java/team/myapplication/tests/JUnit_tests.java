@@ -6,7 +6,7 @@ import team.myapplication.MainActivity;
 /**
  * Created by Zhuyupei on 5/8/16.
  */
-
+@RunWith(AndroidJUnit4.class)
 public class JUnit_tests extends ActivityInstrumentationTestCase2<MainActivity> {
      MainActivity mainActivity;
      public JUnit_tests(){
