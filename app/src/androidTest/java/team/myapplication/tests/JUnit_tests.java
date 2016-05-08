@@ -1,4 +1,4 @@
-package team.myapplication.tests;
+
 
 import android.test.ActivityInstrumentationTestCase2;
 
